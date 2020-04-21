@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "FacialR&A",
-    "Description": "Detect and analyse the human faces appear on the browser",
+    "name": "Screenshot",
+    "Description": "Screenshot the browser as user clicks the icon",
     "version": "0.1",
     "icons": {"128": "./images/icon.png"},
     "content_scripts": [{
